@@ -1,2 +1,4 @@
 # hello-word
-Learning to use GitHub.
+Learning on the subject GitHub.
+
+That it the first modificatioin (= commit).
